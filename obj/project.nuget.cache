@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "+sfaZUUiBPMoVI7u4uE4xW70JzMKvyb1LPDt2UMdECzM7WDqdctz7PBk9kSk1fGUPccr/NamRmUifEQsnKqvIg==",
+  "success": true,
+  "projectFilePath": "/home/mariojunior/personal-projects/azure-deploy/azure-deploy.csproj",
+  "expectedPackageFiles": [
+    "/home/mariojunior/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/mariojunior/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/mariojunior/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/mariojunior/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/mariojunior/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/mariojunior/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "/home/mariojunior/.nuget/packages/xunitxml.testlogger/3.0.70/xunitxml.testlogger.3.0.70.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "krT8qX7U/e6+HKbWMPTEZYj1LFzcK0Bs3yMzr7Pw8zE=",
+  "Source": "azure-deploy",
+  "BasePath": "_content/azure-deploy",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
