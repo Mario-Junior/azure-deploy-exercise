@@ -1,0 +1,14 @@
+/home/mariojunior/personal-projects/azure-deploy/bin/Debug/net6.0/publish/azure-deploy
+/home/mariojunior/personal-projects/azure-deploy/bin/Debug/net6.0/publish/Microsoft.VisualStudio.TestPlatform.Extension.Xunit.Xml.TestLogger.dll
+/home/mariojunior/personal-projects/azure-deploy/bin/Debug/net6.0/publish/Microsoft.VisualStudio.TestPlatform.Extension.Xunit.Xml.TestAdapter.dll
+/home/mariojunior/personal-projects/azure-deploy/bin/Debug/net6.0/publish/Spekt.TestLogger.dll
+/home/mariojunior/personal-projects/azure-deploy/bin/Debug/net6.0/publish/appsettings.Development.json
+/home/mariojunior/personal-projects/azure-deploy/bin/Debug/net6.0/publish/appsettings.json
+/home/mariojunior/personal-projects/azure-deploy/bin/Debug/net6.0/publish/azure-deploy.dll
+/home/mariojunior/personal-projects/azure-deploy/bin/Debug/net6.0/publish/azure-deploy.deps.json
+/home/mariojunior/personal-projects/azure-deploy/bin/Debug/net6.0/publish/azure-deploy.runtimeconfig.json
+/home/mariojunior/personal-projects/azure-deploy/bin/Debug/net6.0/publish/azure-deploy.pdb
+/home/mariojunior/personal-projects/azure-deploy/bin/Debug/net6.0/publish/Microsoft.OpenApi.dll
+/home/mariojunior/personal-projects/azure-deploy/bin/Debug/net6.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/mariojunior/personal-projects/azure-deploy/bin/Debug/net6.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/mariojunior/personal-projects/azure-deploy/bin/Debug/net6.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
